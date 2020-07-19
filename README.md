@@ -1,1 +1,1 @@
-# tribute-page
+https://yakupcemil.github.io/tribute-page/

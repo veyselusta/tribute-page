@@ -1,1 +1,1 @@
-https://yakupcemil.github.io/tribute-page/
+https://veyselusta.github.io/tribute-page/
